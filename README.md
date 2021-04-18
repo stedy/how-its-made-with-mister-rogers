@@ -44,7 +44,7 @@ and compiled this list. Pull Requests definitely welcome!
 | How people make towels | [Episode 1511](http://www.neighborhoodarchive.com/mrn/episodes/1511/index.html) |
 | How people make zippers | [Episode 1517](http://www.neighborhoodarchive.com/mrn/episodes/1517/index.html) |
 | How people make balloons | [Episode 1518](http://www.neighborhoodarchive.com/mrn/episodes/1518/index.html) |
-| How graham crackers are made. | [Episode 1520](http://www.neighborhoodarchive.com/mrn/episodes/1520/index.html) |
+| How graham crackers are made | [Episode 1520](http://www.neighborhoodarchive.com/mrn/episodes/1520/index.html) |
 | How people make record players | [Episode 1525](http://www.neighborhoodarchive.com/mrn/episodes/1525/index.html) |
 | How postage stamps are made | [Episode 1526](http://www.neighborhoodarchive.com/mrn/episodes/1526/index.html) |
 | How people make straws | [Episode 1532](http://www.neighborhoodarchive.com/mrn/episodes/1532/index.html) |
@@ -64,10 +64,10 @@ and compiled this list. Pull Requests definitely welcome!
 | How people make erasers | [Episode 1578](http://www.neighborhoodarchive.com/mrn/episodes/1578/index.html) |
 | How people make flashlights | [Episode 1586](http://www.neighborhoodarchive.com/mrn/episodes/1586/index.html) |
 | How people make matryoshka dolls | [Episode 1589](http://www.neighborhoodarchive.com/mrn/episodes/1589/index.html) |
+| How people make garden hoes | [Episode 1591](http://www.neighborhoodarchive.com/mrn/episodes/1591/index.html) |
 | How people make harmonicas | [Episode 1591](http://www.neighborhoodarchive.com/mrn/episodes/1591/index.html) |
 | How people make bicycle helmets | [Episode 1594](http://www.neighborhoodarchive.com/mrn/episodes/1594/index.html) |
 | How people make suitcases | [Episode 1600](http://www.neighborhoodarchive.com/mrn/episodes/1600/index.html) |
-| How people make peanut butter | [Episode 1612](http://www.neighborhoodarchive.com/mrn/episodes/1612/index.html) |
 | How people make peanut butter | [Episode 1613](http://www.neighborhoodarchive.com/mrn/episodes/1613/index.html) |
 | How people make adhesive bandages | [Episode 1622](http://www.neighborhoodarchive.com/mrn/episodes/1622/index.html) |
 | How toothbrushes are made | [Episode 1628](http://www.neighborhoodarchive.com/mrn/episodes/1628/index.html) |
@@ -94,7 +94,7 @@ and compiled this list. Pull Requests definitely welcome!
 | How people make toy wagons | [Episode 1699](http://www.neighborhoodarchive.com/mrn/episodes/1699/index.html) |
 | How people make vacuum sweepers | [Episode 1702](http://www.neighborhoodarchive.com/mrn/episodes/1702/index.html) |
 | How people make chalk | [Episode 1704](http://www.neighborhoodarchive.com/mrn/episodes/1704/index.html) |
-| How people make cereal.  | [Episode 1706](http://www.neighborhoodarchive.com/mrn/episodes/1706/index.html) |
+| How people make cereal | [Episode 1706](http://www.neighborhoodarchive.com/mrn/episodes/1706/index.html) |
 | How socks are made | [Episode 1707](http://www.neighborhoodarchive.com/mrn/episodes/1707/index.html) |
 | How yogurt is made | [Episode 1710](http://www.neighborhoodarchive.com/mrn/episodes/1710/index.html) |
 | How people make apple juice | [Episode 1713](http://www.neighborhoodarchive.com/mrn/episodes/1713/index.html) |
